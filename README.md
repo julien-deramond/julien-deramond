@@ -23,5 +23,5 @@ Great repo to improve this README file: https://github.com/abhisheknaiidu/awesom
 
 <!--
 Count visitors badge:
-![visitors](https://visitor-badge.glitch.me/badge?page_id=julien-deramond)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=julien-deramond)
 -->
