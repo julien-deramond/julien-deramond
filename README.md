@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Julien Déramond
 
-Currently working at 🟧 [Orange](https://github.com/Orange-OpenSource/) in Paris, France 🇫🇷 as a Web developer.
+Currently working at 🟠 [Orange](https://github.com/Orange-OpenSource/) in Paris, France 🇫🇷 as a Web developer of several OSS Orange projects and Tech Lead of [Orange Design System](https://system.design.orange.com).
 Before that, I've done some embedded development in Qt/QML and also Web Services in C/C++.
 
 - ✨ I'm trying to find ways for the developers and designers to better collaborate
