@@ -4,8 +4,7 @@ Currently working at 🟠 [Orange](https://github.com/Orange-OpenSource/) in Par
 Before that, I've done some embedded development in Qt/QML and also Web Services in C/C++.
 
 - ✨ I'm trying to find ways for the developers and designers to better collaborate
-- 🎯 I'm contributing as a [Bootstrap](https://github.com/twbs) team member.
-- 🌱 I’m also working on a side project called [Concertz](https://concertz.xyz) at night thanks to ☕☕☕☕
+- 🎯 I'm contributing as a [Bootstrap](https://github.com/twbs) team member
 - 🤘 I love live music
 
 ### 📈 My GitHub Stats
