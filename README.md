@@ -4,6 +4,7 @@ Currently working at 🟠 [Orange](https://github.com/Orange-OpenSource/) in Par
 Before that, I've done some embedded development in Qt/QML and also Web Services in C/C++.
 
 - ✨ I'm trying to find ways for the developers and designers to better collaborate
+- 🎯 I'm contributing as a [Bootstrap](https://github.com/twbs) team member.
 - 🌱 I’m also working on a side project called [Concertz](https://concertz.xyz) at night thanks to ☕☕☕☕
 - 🤘 I love live music
 
@@ -14,7 +15,7 @@ Before that, I've done some embedded development in Qt/QML and also Web Services
 </a>
 
 ### Where to find me
-<p><a href="https://github.com/julien-deramond" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/julienderamond" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/julien-deramond" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/julienDeramond" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/julienderamond" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <!--
