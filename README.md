@@ -1,11 +1,25 @@
-### 👋 Hi there! I'm Julien Déramond
+# Hi there! I'm Julien Déramond
 
-Currently working at 🟠 [Orange](https://github.com/Orange-OpenSource/) in Paris, France 🇫🇷 as a Web developer of several OSS Orange projects and Tech Lead of [Orange Design System](https://system.design.orange.com).
-Before that, I've done some embedded development in Qt/QML and also Web Services in C/C++.
+<img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40"/>
 
-- ✨ I'm trying to find ways for the developers and designers to better collaborate
-- 🎯 I'm contributing as a [Bootstrap](https://github.com/twbs) team member
-- 🤘 I love live music
+Currently employed by [Orange](https://github.com/Orange-OpenSource/) in Paris, France 🇫🇷 as Software Front-End Engineer.
+
+Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework called [Boosted](https://boosted.orange.com/), and contributor of several OSS Orange projects.
+
+Before that, I've done some embedded development in Qt/QML for STBs and bunch of C/C++ Web Services as Apache Modules.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/17381666/230775916-cd7be2c4-c53b-4af7-b60a-4e4c9292583b.svg" height="40"/>
+
+[Bootstrap](https://getbootstrap.com/) Core Team Member since 2022.
+
+[Bootstrap](https://getbootstrap.com/) Contributor since 2021.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40"/>
+Creator of [Open {re}Source](https://openresource.dev).
 
 ---
 
