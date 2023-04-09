@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40"/>
 
-Currently employed by [Orange](https://github.com/Orange-OpenSource/) in Paris, France 🇫🇷 as Software Front-End Engineer.
+Currently employed by [Orange](https://orange.com) in Paris, France 🇫🇷 as Software Front-End Engineer.
 
 Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework called [Boosted](https://boosted.orange.com/), and contributor of several OSS Orange projects.
 
