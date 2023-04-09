@@ -19,7 +19,7 @@ Before that, I've done some embedded development in Qt/QML for STBs and bunch of
 <br>
 
 <img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40"/>
-Creator of [Open {re}Source](https://openresource.dev).
+Creator of <a href="https://openresource.dev">Open {re}Source</a>.
 
 ---
 
