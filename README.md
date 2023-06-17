@@ -1,6 +1,6 @@
 # Hi there! I'm Julien Déramond
 
-<img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40"/>
+## <img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40" alt="Orange"/>
 
 Currently employed by [Orange](https://orange.com) in Paris, France 🇫🇷 as Software Front-End Engineer.
 
@@ -10,7 +10,7 @@ Before that, I've done some embedded development in Qt/QML for STBs and bunch of
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/17381666/230775916-cd7be2c4-c53b-4af7-b60a-4e4c9292583b.svg" height="40"/>
+## <img src="https://user-images.githubusercontent.com/17381666/230775916-cd7be2c4-c53b-4af7-b60a-4e4c9292583b.svg" height="40" alt="Bootstrap"/>
 
 [Bootstrap](https://getbootstrap.com/) Core Team Member since 2022.
 
@@ -18,8 +18,21 @@ Before that, I've done some embedded development in Qt/QML for STBs and bunch of
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40"/>
+## <img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40" alt="Open {re}Source"/>
+
 Creator of <a href="https://openresource.dev">Open {re}Source</a>.
+
+<br>
+
+## Miscellaneous
+
+Furtive appearances on YouTube:
+* [Webinaire "Design system et accessibilité numérique"](https://www.youtube.com/watch?v=aL07Iv1KCMk) by Manifeste Inclusion (in French)
+* [State of CSS Frameworks](https://www.youtube.com/watch?v=twc-iF40TJY) by This Dot Media
+
+Some GitHub repositories:
+* [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update issue's body
+* [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
 
 ---
 
