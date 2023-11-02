@@ -39,7 +39,7 @@ Some GitHub repositories:
 
 <p align="left">
   <a href="http://www.github.com/julien-deramond"><img src="https://github-readme-stats.vercel.app/api?username=julien-deramond&show_icons=true&hide=&count_private=true&title_color=000&text_color=000&icon_color=000&bg_color=fff&hide_border=true&show_icons=true" alt="Julien Deramond's GitHub stats" width="420px">
-  <a href="http://www.github.com/julien-deramond"><img src="https://github-readme-streak-stats.herokuapp.com/?user=julien-deramond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="420px">
+  <a href="http://www.github.com/julien-deramond"><img src="https://github-readme-streak-stats-f26afzavs-julien-deramond.vercel.app/?user=julien-deramond&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="420px">
   </a>
 </p>
 
