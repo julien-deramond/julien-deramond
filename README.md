@@ -31,6 +31,7 @@ Furtive appearances on YouTube:
 * [State of CSS Frameworks](https://www.youtube.com/watch?v=twc-iF40TJY) by This Dot Media
 
 Some GitHub repositories:
+* [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites 
 * [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update issue's body
 * [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
 
