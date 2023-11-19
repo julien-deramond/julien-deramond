@@ -2,11 +2,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40" alt="Orange"/>
 
-Currently employed by [Orange](https://orange.com) in Paris, France 🇫🇷 as Software Front-End Engineer.
+Currently employed by [Orange](https://orange.com) in Paris, France 🇫🇷 as a Software Front-End Engineer.
 
-Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework called [Boosted](https://boosted.orange.com/), and contributor of several OSS Orange projects.
+Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework called [Boosted](https://boosted.orange.com/), and contributor to several OSS Orange projects.
 
-Before that, I've done some embedded development in Qt/QML for STBs and bunch of C/C++ Web Services as Apache Modules.
+Before that, I did some embedded development in Qt/QML for STBs and a bunch of C/C++ Web Services as Apache Modules.
 
 <br>
 
@@ -32,7 +32,7 @@ Furtive appearances on YouTube:
 
 Some GitHub repositories:
 * [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites 
-* [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update issue's body
+* [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
 * [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
 
 ---
