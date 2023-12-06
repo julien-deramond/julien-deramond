@@ -27,6 +27,7 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a>.
 ## Miscellaneous
 
 Furtive appearances on YouTube:
+* [Navigating the Open Source Galaxy with Julien Déramond: Bootstrap Core Team Member](https://www.youtube.com/watch?v=_rLnGq34q74) by Uriel Ofir (Ma'akaf Community Interview Series)
 * [Webinaire "Design system et accessibilité numérique"](https://www.youtube.com/watch?v=aL07Iv1KCMk) by Manifeste Inclusion (in French)
 * [State of CSS Frameworks](https://www.youtube.com/watch?v=twc-iF40TJY) by This Dot Media
 
