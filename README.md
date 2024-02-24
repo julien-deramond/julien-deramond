@@ -2,11 +2,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40" alt="Orange"/>
 
-Currently employed by [Orange](https://orange.com) in Paris, France 🇫🇷 as a Software Front-End Engineer.
+Front-end software engineer at [Orange](https://orange.com) in Paris, France 🇫🇷.
 
-Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework called [Boosted](https://boosted.orange.com/), and contributor to several OSS Orange projects.
+Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework, [Boosted](https://boosted.orange.com/). Additionally, I contribute and/or maintain several open-source software Orange projects.
 
-Before that, I did some embedded development in Qt/QML for STBs and a bunch of C/C++ Web Services as Apache Modules.
+Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) and developed a bunch of C/C++ Web Services as Apache Modules.
 
 <br>
 
