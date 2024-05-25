@@ -8,6 +8,21 @@ Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev 
 
 Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) and developed a bunch of C/C++ Web Services as Apache Modules.
 
+<details>
+  <summary>List of OSS repositories</summary>
+
+  - https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/
+  - https://github.com/orange-OpenSource/ods-charts
+  - https://github.com/Orange-OpenSource/IOT-Map-Component
+  - https://github.com/Orange-OpenSource/ods-ios
+  - https://github.com/Orange-OpenSource/ods-android
+  - https://github.com/Orange-OpenSource/ods-flutter
+  - https://github.com/Orange-OpenSource/ods-storybook-theme
+  - https://github.com/Orange-OpenSource/ods-jekyll-theme
+  - https://github.com/Orange-OpenSource/ods-mkdocs-theme
+  - https://github.com/Orange-OpenSource/qmljsreformatter
+</details>
+
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/17381666/230775916-cd7be2c4-c53b-4af7-b60a-4e4c9292583b.svg" height="40" alt="Bootstrap"/>
@@ -16,11 +31,28 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
 
 [Bootstrap](https://getbootstrap.com/) Contributor since 2021.
 
+<details>
+  <summary>List of OSS repositories</summary>
+
+  - https://github.com/twbs/bootstrap
+  - https://github.com/twbs/examples
+  - https://github.com/twbs/blog
+</details>
+
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40" alt="Open {re}Source"/>
 
 Creator of <a href="https://openresource.dev">Open {re}Source</a>.
+
+<details>
+  <summary>List of OSS repositories</summary>
+
+  - https://github.com/Open-reSource/openresource.dev
+  - https://github.com/Open-reSource/sponsorkit-starter
+  - https://github.com/Open-reSource/labs-we-don-t-assign-issues
+  - https://github.com/Open-reSource/labs-append-markdown-to-issues
+</details>
 
 <br>
 
