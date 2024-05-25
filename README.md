@@ -9,7 +9,7 @@ Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev 
 Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) and developed a bunch of C/C++ Web Services as Apache Modules.
 
 <details>
-  <summary>List of OSS repositories</summary>
+  <summary>List of OSS repositories (10)</summary>
 
   - https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/
   - https://github.com/orange-OpenSource/ods-charts
@@ -32,7 +32,7 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
 [Bootstrap](https://getbootstrap.com/) Contributor since 2021.
 
 <details>
-  <summary>List of OSS repositories</summary>
+  <summary>List of OSS repositories (3)</summary>
 
   - https://github.com/twbs/bootstrap
   - https://github.com/twbs/examples
@@ -46,7 +46,7 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
 Creator of <a href="https://openresource.dev">Open {re}Source</a>.
 
 <details>
-  <summary>List of OSS repositories</summary>
+  <summary>List of OSS repositories (4)</summary>
 
   - https://github.com/Open-reSource/openresource.dev
   - https://github.com/Open-reSource/sponsorkit-starter
