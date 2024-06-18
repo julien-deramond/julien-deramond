@@ -58,6 +58,9 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a>.
 
 ## Miscellaneous
 
+[Talks at conferences](https://github.com/julien-deramond/talks):
+* [OW2con'24](https://www.ow2con.org/view/2024/) — [Orange Open-Source Design System and Its Bootstrap Fork](https://github.com/julien-deramond/talks/blob/main/ow2con24/README.md)
+
 Furtive appearances on YouTube:
 * [Navigating the Open Source Galaxy with Julien Déramond: Bootstrap Core Team Member](https://www.youtube.com/watch?v=_rLnGq34q74) by Uriel Ofir (Ma'akaf Community Interview Series)
 * [Webinaire "Design system et accessibilité numérique"](https://www.youtube.com/watch?v=aL07Iv1KCMk) by Manifeste Inclusion (in French)
