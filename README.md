@@ -97,6 +97,16 @@ Some GitHub repositories:
 
 <a href="https://www.buymeacoffee.com/ju.lien" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
+---
+
+## Sponsors
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/julien-deramond/static/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/julien-deramond/static/sponsors.svg'/>
+  </a>
+</p>
+
 
 <!--
 Great repo to improve this README file: https://github.com/abhisheknaiidu/awesome-github-profile-readme
