@@ -95,7 +95,7 @@ Some GitHub repositories:
 
 ## Sponsoring
 
-<a href="https://buymeacoffee.com/ju.lien" target="_blank"><img src="https://github.com/user-attachments/assets/f777679f-d630-4c25-80d8-af6f5d8b1e5f" width="150px"/></a>
+<a href="https://www.buymeacoffee.com/ju.lien" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 
 <!--
