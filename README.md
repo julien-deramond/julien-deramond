@@ -102,11 +102,8 @@ Some GitHub repositories:
 ## Sponsors
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/julien-deramond/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/julien-deramond/static/sponsors.svg'/>
-  </a>
+  <img src='https://cdn.jsdelivr.net/gh/julien-deramond/static/sponsors.svg'/>
 </p>
-
 
 <!--
 Great repo to improve this README file: https://github.com/abhisheknaiidu/awesome-github-profile-readme
