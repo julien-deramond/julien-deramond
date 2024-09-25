@@ -9,7 +9,7 @@ Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev 
 Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) and developed a bunch of C/C++ Web Services as Apache Modules.
 
 <details>
-  <summary>List of OSS repositories (13)</summary>
+  <summary>List of OSS repositories (12)</summary>
 
   - https://github.com/Orange-OpenSource/Orange-Boosted-Bootstrap/
   - https://github.com/orange-OpenSource/ods-charts
@@ -19,7 +19,6 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
   - https://github.com/Orange-OpenSource/ods-flutter
   - https://github.com/Orange-OpenSource/ouds-ios
   - https://github.com/Orange-OpenSource/ouds-android
-  - https://github.com/Orange-OpenSource/ouds-flutter
   - https://github.com/Orange-OpenSource/ods-storybook-theme
   - https://github.com/Orange-OpenSource/ods-jekyll-theme
   - https://github.com/Orange-OpenSource/ods-mkdocs-theme
