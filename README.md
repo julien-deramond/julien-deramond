@@ -48,12 +48,13 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
 Creator of <a href="https://openresource.dev">Open {re}Source</a>.
 
 <details>
-  <summary>List of OSS repositories (4)</summary>
+  <summary>List of OSS repositories (5)</summary>
 
   - https://github.com/Open-reSource/openresource.dev
   - https://github.com/Open-reSource/sponsorkit-starter
   - https://github.com/Open-reSource/labs-we-don-t-assign-issues
   - https://github.com/Open-reSource/labs-append-markdown-to-issues
+  - https://github.com/Open-reSource/slidev-theme-linkedin-carousel
 </details>
 
 <br>
