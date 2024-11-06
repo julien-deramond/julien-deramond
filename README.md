@@ -88,7 +88,10 @@ Some GitHub repositories:
 
 ## Socials
 
-<p><a href="https://github.com/julien-deramond" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/julienDeramond" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>  <a href="https://www.twitch.tv/julienunderscore" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%236441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://www.linkedin.com/in/julienderamond" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/julien-deramond" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/julienDeramond" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>  <a href="https://www.twitch.tv/julienunderscore" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/twitch-%236441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a> <a href="https://www.linkedin.com/in/julienderamond" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://bsky.app/profile/julien-deramond.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+
+
+  
 </p>
 
 ---
