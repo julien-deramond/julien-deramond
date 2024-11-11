@@ -45,12 +45,13 @@ Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) 
 
 ## <img src="https://user-images.githubusercontent.com/17381666/230775733-e8c1da04-b1f6-4f97-ac37-ee967a61137c.svg" height="40" alt="Open {re}Source"/>
 
-Creator of <a href="https://openresource.dev">Open {re}Source</a>.
+Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="https://adventofopensource.com/">Advent of Open Source</a>
 
 <details>
-  <summary>List of OSS repositories (5)</summary>
+  <summary>List of OSS repositories (6)</summary>
 
   - https://github.com/Open-reSource/openresource.dev
+  - https://github.com/Open-reSource/adventofopensource.com
   - https://github.com/Open-reSource/sponsorkit-starter
   - https://github.com/Open-reSource/labs-we-don-t-assign-issues
   - https://github.com/Open-reSource/labs-append-markdown-to-issues
