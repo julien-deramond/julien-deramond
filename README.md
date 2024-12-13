@@ -63,7 +63,7 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 ## Miscellaneous
 
 [Talks at conferences or meetups](https://github.com/julien-deramond/talks):
-* [Storybook Paris #3 - What's your status](https://www.eventbrite.fr/e/billets-storybook-paris-3-whats-your-status-1077460516409) - [Hunt Down Deprecated Classes from Your Browser](https://github.com/julien-deramond/talks/blob/main/storybook-paris-3/README.md)
+* [Storybook Paris #3 - What's your status](https://www.youtube.com/watch?v=8XSjQVoTT6o) - [Hunt Down Deprecated Classes from Your Browser](https://github.com/julien-deramond/talks/blob/main/storybook-paris-3/README.md)
 * [OW2con'24](https://www.ow2con.org/view/2024/) — [Orange Open-Source Design System and Its Bootstrap Fork](https://github.com/julien-deramond/talks/blob/main/ow2con24/README.md)
 
 Furtive appearances on YouTube:
