@@ -1,10 +1,16 @@
 # Hi there! I'm Julien Déramond
 
+## <img src="https://github.com/user-attachments/assets/96e9f207-5dc9-4048-a7b1-7e543aa9d014" height="40" alt="Thales"/>
+
+Software tech lead at [Thales](https://www.thalesgroup.com) in Paris, France 🇫🇷 since 2025.
+
+Tech lead of [Quantum Design System](https://quantum.thalesdigital.io/).
+
 ## <img src="https://user-images.githubusercontent.com/17381666/230776080-0ebdd9a9-50d7-468f-8831-9520e2ebf2f7.png" height="40" alt="Orange"/>
 
-Front-end software engineer at [Orange](https://orange.com) in Paris, France 🇫🇷.
+Front-end software engineer at [Orange](https://orange.com) for around 16 years between 2008 and 2025.
 
-Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework, [Boosted](https://boosted.orange.com/). Additionally, I contribute and/or maintain several open-source software Orange projects.
+Tech Lead of [Orange Design System](https://system.design.orange.com), Lead Dev of its web framework, [Boosted](https://boosted.orange.com/). Additionally, I contributed and/or maintained several open-source software Orange projects.
 
 Previously, I worked on embedded development in Qt/QML for Set-Top Boxes (STBs) and developed a bunch of C/C++ Web Services as Apache Modules.
 
