@@ -78,6 +78,9 @@ Furtive appearances on YouTube:
 * [Webinaire "Design system et accessibilité numérique"](https://www.youtube.com/watch?v=aL07Iv1KCMk) by Manifeste Inclusion (in French)
 * [State of CSS Frameworks](https://www.youtube.com/watch?v=twc-iF40TJY) by This Dot Media
 
+Furtive appearances in articles:
+* [Frontguys | Les Design Systems au cœur des grandes organisations : Orange, Engie, Thales, Airbus et Accor](https://frontguys.fr/design-system/les-design-systems-au-coeur-dorange-engie-thales-airbus-et-accor/) (in French)
+
 Some GitHub repositories:
 * [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites 
 * [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
