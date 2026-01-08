@@ -75,6 +75,7 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 * [OW2con'24](https://www.ow2con.org/view/2024/) — [Orange Open-Source Design System and Its Bootstrap Fork](https://github.com/julien-deramond/talks/blob/main/ow2con24/README.md)
 
 Furtive appearances on YouTube:
+* [Open Source Experience — Design Systems : stratégies Inner & Open Source](https://www.youtube.com/watch?v=SOPWseO4VkI) (in French)
 * [DesignOps Meetup #17 : Design System :  et si on devait tout refaire ?](https://www.youtube.com/watch?v=GI_ZqjSUhng) (in French)
 * [Storybook Paris meetup #3](https://www.youtube.com/live/8XSjQVoTT6o?si=nbNsZZZ-o2VI28bF&t=3287) by Chromatic
 * [Navigating the Open Source Galaxy with Julien Déramond: Bootstrap Core Team Member](https://www.youtube.com/watch?v=_rLnGq34q74) by Uriel Ofir (Ma'akaf Community Interview Series)
