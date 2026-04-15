@@ -70,13 +70,13 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 
 [Talks at conferences or meetups](https://github.com/julien-deramond/talks):
 * [Open Source Experience](https://www.opensource-experience.com/) — [Design Systems : stratégies Inner & Open Source](https://github.com/julien-deramond/talks/blob/main/osxp2025/README.md) (in French)
-* [DesignOps Meetup #17 : Design System :  et si on devait tout refaire ?](https://www.youtube.com/watch?v=GI_ZqjSUhng) (in French)
+* [DesignOps Meetup #17 : Design System : et si on devait tout refaire ?](https://www.youtube.com/watch?v=GI_ZqjSUhng) (in French)
 * [Storybook Paris #3 - What's your status](https://www.youtube.com/watch?v=8XSjQVoTT6o) - [Hunt Down Deprecated Classes from Your Browser](https://github.com/julien-deramond/talks/blob/main/storybook-paris-3/README.md)
 * [OW2con'24](https://www.ow2con.org/view/2024/) — [Orange Open-Source Design System and Its Bootstrap Fork](https://github.com/julien-deramond/talks/blob/main/ow2con24/README.md)
 
 Furtive appearances on YouTube:
 * [Open Source Experience — Design Systems : stratégies Inner & Open Source](https://www.youtube.com/watch?v=SOPWseO4VkI) (in French)
-* [DesignOps Meetup #17 : Design System :  et si on devait tout refaire ?](https://www.youtube.com/watch?v=GI_ZqjSUhng) (in French)
+* [DesignOps Meetup #17 : Design System : et si on devait tout refaire ?](https://www.youtube.com/watch?v=GI_ZqjSUhng) (in French)
 * [Storybook Paris meetup #3](https://www.youtube.com/live/8XSjQVoTT6o?si=nbNsZZZ-o2VI28bF&t=3287) by Chromatic
 * [Navigating the Open Source Galaxy with Julien Déramond: Bootstrap Core Team Member](https://www.youtube.com/watch?v=_rLnGq34q74) by Uriel Ofir (Ma'akaf Community Interview Series)
 * [Webinaire "Design system et accessibilité numérique"](https://www.youtube.com/watch?v=aL07Iv1KCMk) by Manifeste Inclusion (in French)
