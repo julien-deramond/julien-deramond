@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Julien D&#233;ramond's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 63, Total Commits  (last year) : 552, Total PRs: 1460, Total Issues: 571, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 63, Total Commits  (last year) : 552, Total PRs: 1461, Total Issues: 571, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 46.644500053795156;
+        stroke-dashoffset: 46.64450005239245;
       }
     }
   
