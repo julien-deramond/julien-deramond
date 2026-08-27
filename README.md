@@ -66,6 +66,15 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 
 <br>
 
+## Other repositories
+
+* [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites
+* [Component Anatomy](https://github.com/julien-deramond/component-anatomy) – Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights
+* [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
+* [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
+
+<br>
+
 ## Miscellaneous
 
 [Talks at conferences or meetups](https://github.com/julien-deramond/talks):
@@ -84,11 +93,6 @@ Furtive appearances on YouTube:
 
 Furtive appearances in articles:
 * [Frontguys | Les Design Systems au cœur des grandes organisations : Orange, Engie, Thales, Airbus et Accor](https://frontguys.fr/design-system/les-design-systems-au-coeur-dorange-engie-thales-airbus-et-accor/) (in French)
-
-Some GitHub repositories:
-* [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites 
-* [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
-* [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
 
 ---
 
