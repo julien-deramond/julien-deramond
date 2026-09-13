@@ -69,6 +69,7 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 ## Other repositories
 
 * [Bootstrap Deprecated Classes Extension](https://github.com/julien-deramond/bootstrap-deprecated-classes-extension) — Browser extension highlighting Bootstrap deprecated classes in websites
+* [Bootstrap Tokens](https://github.com/julien-deramond/bootstrap-tokens) – Bootstrap 6's design system as portable design tokens, and a visual theme builder that writes them
 * [Component Anatomy](https://github.com/julien-deramond/component-anatomy) – Framework-agnostic interactive component anatomy for design system docs — annotate the DOM, get synced hover highlights
 * [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
 * [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
