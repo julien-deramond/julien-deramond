@@ -74,6 +74,7 @@ Creator of <a href="https://openresource.dev">Open {re}Source</a> and <a href="h
 * [dtgraph](https://github.com/julien-deramond/dtgraph) – Interactive dependency graph for DTCG design tokens: visualize aliasing, blast radius, and cycles as a design system grows
 * [update-issue-body](https://github.com/julien-deramond/update-issue-body) — GitHub action to update the issue's body
 * [sponsorkit-starter](https://github.com/Open-reSource/sponsorkit-starter) — GitHub template repository for [SponsorKit](https://github.com/antfu/sponsorkit/) toolkit for automatically generating sponsors images from GitHub Sponsors
+* [transtyle](https://github.com/transtyle/transtyle) – A compiler for design systems — describe yours once as W3C design tokens, compile native themes for eight ecosystems (Bootstrap, shadcn/ui, daisyUI, ECharts, Storybook, Radix, PrimeNG, CSS variables). Deterministic, explainable, zero runtime
 
 <br>
 
