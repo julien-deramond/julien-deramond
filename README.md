@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-Julien Déramond builds open source tools for design systems, such as component-anatomy, dtgraph and bootstrap-tokens, has been on the Bootstrap core team since 2022, and contributes upstream to many front-end open source projects. Julien created Open {re}Source and Advent of Open Source to help people discover and contribute to open source, and works as a Design System Tech Lead at Thales. Based in Paris.
+Julien Déramond builds open source tools for design systems, such as component-anatomy, dtgraph and bootstrap-tokens, has been on the Bootstrap core team since 2022, and contributes upstream to many open source projects. Julien created Open {re}Source and Advent of Open Source to help people discover and contribute to open source, and works as a Design System Tech Lead at Thales. Based in Paris.
 
 <p>
   <a href="https://github.com/julien-deramond"><img alt="GitHub: julien-deramond" src="https://img.shields.io/badge/GitHub-julien--deramond-3AB9BF?style=flat&logo=github&logoColor=white&labelColor=16181E"></a>
