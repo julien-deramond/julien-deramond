@@ -9,7 +9,7 @@ Julien Déramond builds open source tools for design systems, such as component-
 
 <p>
   <a href="https://github.com/julien-deramond"><img alt="GitHub: julien-deramond" src="https://img.shields.io/badge/GitHub-julien--deramond-3AB9BF?style=flat&logo=github&logoColor=white&labelColor=16181E"></a>
-  <a href="https://bsky.app/profile/julien-deramond.bsky.social"><img alt="Bluesky: julien-deramond.bsky.social" src="https://img.shields.io/badge/Bluesky-julien--deramond.bsky.social-3AB9BF?style=flat&logo=bluesky&logoColor=white&labelColor=16181E"></a>
+  <a href="https://bsky.app/profile/deramond.dev"><img alt="Bluesky: deramond.dev" src="https://img.shields.io/badge/Bluesky-deramond.dev-3AB9BF?style=flat&logo=bluesky&logoColor=white&labelColor=16181E"></a>
   <a href="https://twitter.com/julienDeramond"><img alt="X: @JulienDeramond" src="https://img.shields.io/badge/X-%40JulienDeramond-3AB9BF?style=flat&logo=x&logoColor=white&labelColor=16181E"></a>
   <a href="https://www.linkedin.com/in/julienderamond"><img alt="LinkedIn: julienderamond" src="https://img.shields.io/badge/LinkedIn-julienderamond-3AB9BF?style=flat&logo=linkedin&logoColor=white&labelColor=16181E"></a>
   <a href="https://www.twitch.tv/julienunderscore"><img alt="Twitch: julienunderscore" src="https://img.shields.io/badge/Twitch-julienunderscore-3AB9BF?style=flat&logo=twitch&logoColor=white&labelColor=16181E"></a>
