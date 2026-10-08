@@ -1,22 +1,19 @@
+<h1 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/logo-title-dark.svg"><source media="(prefers-color-scheme: light)" srcset=".github/logo-title-light.svg"><img src=".github/logo-title-light.png" width="497" alt="Julien Déramond"></picture></h1>
+
+<p align="center">Open source tools for design systems and upstream contributions. <a href="https://getbootstrap.com/">Bootstrap</a> core team. Creator of <a href="https://openresource.dev/">Open {re}Source</a>. Design System Tech Lead at Thales.</p>
+
+<p align="center"><a href="https://deramond.dev/"><strong>Visit deramond.dev »</strong></a></p>
+
 <p align="center">
-  <picture>
-    <source srcset=".github/header.svg" type="image/svg+xml">
-    <img src=".github/header.png" width="830" alt="Julien Déramond. Design systems at work. Open source at home.">
-  </picture>
+  <a href="https://deramond.dev/projects/">Projects</a> · <a href="https://deramond.dev/talks/">Talks</a> · <a href="https://deramond.dev/cv/">CV</a> · <a href="https://deramond.dev/blog/">Blog</a>
 </p>
 
-Open source tools for design systems and upstream contributions. [Bootstrap](https://getbootstrap.com/) core team. Creator of [Open {re}Source](https://openresource.dev/). Design System Tech Lead at Thales.
-
-<p>
+<p align="center">
   <a href="https://github.com/julien-deramond"><img alt="GitHub: julien-deramond" src="https://img.shields.io/badge/GitHub-julien--deramond-3AB9BF?style=flat&logo=github&logoColor=white&labelColor=16181E"></a>
   <a href="https://bsky.app/profile/deramond.dev"><img alt="Bluesky: deramond.dev" src="https://img.shields.io/badge/Bluesky-deramond.dev-3AB9BF?style=flat&logo=bluesky&logoColor=white&labelColor=16181E"></a>
   <a href="https://twitter.com/julienDeramond"><img alt="X: @JulienDeramond" src="https://img.shields.io/badge/X-%40JulienDeramond-3AB9BF?style=flat&logo=x&logoColor=white&labelColor=16181E"></a>
   <a href="https://www.linkedin.com/in/julienderamond"><img alt="LinkedIn: julienderamond" src="https://img.shields.io/badge/LinkedIn-julienderamond-3AB9BF?style=flat&logo=linkedin&logoColor=white&labelColor=16181E"></a>
   <a href="https://www.twitch.tv/julienunderscore"><img alt="Twitch: julienunderscore" src="https://img.shields.io/badge/Twitch-julienunderscore-3AB9BF?style=flat&logo=twitch&logoColor=white&labelColor=16181E"></a>
-</p>
-
-<p align="center">
-  <a href="https://deramond.dev/"><b>deramond.dev</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;<a href="https://deramond.dev/projects/">Projects</a> · <a href="https://deramond.dev/talks/">Talks</a> · <a href="https://deramond.dev/cv/">CV</a> · <a href="https://deramond.dev/blog/">Blog</a>
 </p>
 
 ## Stats
