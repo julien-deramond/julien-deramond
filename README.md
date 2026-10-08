@@ -15,14 +15,9 @@ Open source tools for design systems and upstream contributions. [Bootstrap](htt
   <a href="https://www.twitch.tv/julienunderscore"><img alt="Twitch: julienunderscore" src="https://img.shields.io/badge/Twitch-julienunderscore-3AB9BF?style=flat&logo=twitch&logoColor=white&labelColor=16181E"></a>
 </p>
 
-## More on deramond.dev
-
-[deramond.dev](https://deramond.dev/) tells the full story:
-
-- [Projects](https://deramond.dev/projects/): Component Anatomy, dtgraph, Bootstrap Tokens, Transtyle, Bootstrap, Open {re}Source, Advent of Open Source and smaller tools.
-- [Talks](https://deramond.dev/talks/): conference sessions with their slides, and video appearances.
-- [CV](https://deramond.dev/cv/): design systems at Thales and Orange, with a printable PDF.
-- [Blog](https://deramond.dev/blog/): posts on design systems, open source maintenance and tooling.
+<p align="center">
+  <a href="https://deramond.dev/"><b>deramond.dev</b></a>&nbsp;&nbsp;→&nbsp;&nbsp;<a href="https://deramond.dev/projects/">Projects</a> · <a href="https://deramond.dev/talks/">Talks</a> · <a href="https://deramond.dev/cv/">CV</a> · <a href="https://deramond.dev/blog/">Blog</a>
+</p>
 
 ## Stats
 
